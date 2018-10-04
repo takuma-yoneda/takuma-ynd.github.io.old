@@ -10,7 +10,7 @@ permalink: /about/
 **Takuma Yoneda**
 
 1st year PhD at [Toyota Technological Institute at Chicago](http://ttic.edu/), 
-interested in Robotics, Natural Language Processing, and Machine Learning.
+interested in Robotics, Natural Language Processing and Machine Learning.
 
 I got BSc of Engineering from [Toyota Technological Institute](https://www.toyota-ti.ac.jp/) (Japan) and worked on Graph Embedding in Natural Language Processing under the supervision of Prof. [Makoto Miwa](https://www.toyota-ti.ac.jp/Lab/Denshi/COIN/people/makoto.miwa/) and Prof. [Yutaka Sasaki](https://www.toyota-ti.ac.jp/Lab/Denshi/COIN/people/yutaka.sasaki/index-e.html) in [Computational Intelligence Lab.](https://www.toyota-ti.ac.jp/Lab/Denshi/COIN/index-e.html).
 I also stayed at [University College London Machine Reading Group](https://mr.cs.ucl.ac.uk/) as an intern to tackle [Fact-Extraction and VERification (FEVER)](http://fever.ai/) shared-task under Prof. [Pontus Stenetorp](https://pontus.stenetorp.se/) and Prof. [Sebastian Riedel](http://www.riedelcastro.org/).
