@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How Linux Works -- command line operations --"
+title:  "How Linux Works -- Command Line Operations --"
 date:   2018-10-02 22:00:00 +0100
 categories: jekyll update
 ---

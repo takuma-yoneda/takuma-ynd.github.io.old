@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How Linux Works -- directory hierarchy --"
+title:  "How Linux Works -- Directory Hierarchy --"
 date:   2018-10-02 22:23:28 +0100
 categories: jekyll update
 ---
